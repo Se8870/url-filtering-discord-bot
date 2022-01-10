@@ -8,6 +8,8 @@ Install the requirements using pip
 pip install -r requirements.txt
 ```
 
+Insert your bot token into `config.json`
+
  And run it!
  
  ```bash
