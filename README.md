@@ -17,4 +17,5 @@ Insert your bot token into `config.json`
  ```
 
 ## Credits
-Cheaterman - My python barista uwu
+* Cheaterman - My python barista uwu
+* Stackoverflow - For not good advice, initial project came from that idea btw
