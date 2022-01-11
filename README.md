@@ -1,4 +1,4 @@
-# Simple URL Filtering Nextcord bot
+# Simple URL Filtering Discord bot
 Simple url filtering, only using witelisted url and auto removing bad url (currently only discord scam link works)
 
 # Installation
