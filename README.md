@@ -1,7 +1,7 @@
 # Simple URL Filtering Discord bot
 Simple url filtering, only using witelisted url and auto removing bad url (currently only discord scam link works)
 
-# Installation
+## Installation
 
 Install the requirements using pip
 ```bash
@@ -16,4 +16,5 @@ Insert your bot token into `config.json`
  python main.py
  ```
 
-
+## Credits
+Cheaterman - My python barista uwu
