@@ -23,7 +23,7 @@ class FilterBot(discord.Client):
     async def on_ready(self):
         print('Bot is ready to filter scam discord link!')
 
-def is_bad_discord_url(content: str) -> bool:
+    def is_bad_discord_url(content: str) -> bool:
     # Search using regex
     url_match = re.search("(?P<url>https?://[^\s]+)", content)
 
